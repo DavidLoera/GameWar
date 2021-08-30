@@ -1,0 +1,1 @@
+<div align="center"><a href="mapa.php" id="mapa" >Mapa de sitio</a></div
